@@ -97,7 +97,6 @@ class HomeController extends GetxController {
     required DateTime date,
     required String method,
   }) {
-    // Pastikan objek history sudah ada
     if (history.value != null) {
       history.value!.record.add(
         HistoryList(
