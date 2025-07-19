@@ -1,0 +1,2 @@
+/Users/rendy/Documents/test_paprika/android/app/.cxx/RelWithDebInfo/64404q73/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rendy/Documents/test_paprika/android/app/.cxx/RelWithDebInfo/64404q73/armeabi-v7a/CMakeFiles/rebuild_cache.dir

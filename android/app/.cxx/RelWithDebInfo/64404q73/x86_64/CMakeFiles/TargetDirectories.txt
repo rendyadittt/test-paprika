@@ -1,0 +1,2 @@
+/Users/rendy/Documents/test_paprika/android/app/.cxx/RelWithDebInfo/64404q73/x86_64/CMakeFiles/edit_cache.dir
+/Users/rendy/Documents/test_paprika/android/app/.cxx/RelWithDebInfo/64404q73/x86_64/CMakeFiles/rebuild_cache.dir
